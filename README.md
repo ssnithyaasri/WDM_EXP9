@@ -31,11 +31,13 @@ for this purpose.
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/a9bf5108-68cf-42e2-b836-842be4541540)
+![image](https://github.com/user-attachments/assets/3a0108f2-da7a-48c3-9824-4f655ed6675c)
 
-![image](https://github.com/user-attachments/assets/8157cae1-e3f8-4645-9249-f039e9d456e5)
+![image](https://github.com/user-attachments/assets/36b97fed-a704-443e-90da-e8778eef5d28)
 
-![image](https://github.com/user-attachments/assets/3ec2df4b-30a9-42e5-b109-b5d08ba27248)
+
+![image](https://github.com/user-attachments/assets/4f939dfb-d6d2-4126-8fc5-054172b4b733)
+
 
 
 ### Result:
